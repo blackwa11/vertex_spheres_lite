@@ -1,14 +1,18 @@
 # vertex_spheres_lite
 
-Blender addon for creating spheres bound to mesh vertices.
+Lightweight Blender addon for creating spheres bound to mesh vertices.
+
+---
+
+## 🎬 Preview
+
+![preview](preview.gif)
 
 ---
 
 ## ⬇️ Download
 
-Use the release file:
-
-`vertex_spheres_lite.py`
+👉 https://github.com/blackwa11/vertex_spheres_lite/releases/download/v1.0/vertex_spheres_lite.py
 
 ⚠️ Do NOT use:
 - GitHub "Download ZIP"
@@ -18,32 +22,51 @@ Use the release file:
 
 ## 🧩 Installation
 
-1. Open Blender
-2. Edit → Preferences → Add-ons
-3. Click **Install**
-4. Select `vertex_spheres_lite.py`
-5. Enable addon
+1. Open Blender  
+2. Edit → Preferences → Add-ons  
+3. Click **Install**  
+4. Select downloaded `.py` file  
+5. Enable addon  
 
 ---
 
 ## 🎮 Usage
 
-1. Select a mesh object
+1. Select a mesh object  
 2. Go to **Edit Mode** and select vertices  
-   or enable **If none selected → use all verts**
-3. Press **N** → **Vertex Lite**
-4. Click **Create Spheres**
-
-The created spheres stay bound to the mesh vertices.
+   or enable **use all verts**  
+3. Press **N** → **Vertex Lite**  
+4. Click **Create Spheres**  
 
 ---
 
 ## ⚡ Features
 
-- spheres on vertices
-- hard bind to mesh vertices
-- works with animated / moving vertex structures
-- delete created spheres
+- spheres on mesh vertices  
+- hard bind to vertices  
+- works with animated geometry  
+- delete created spheres  
+
+---
+
+## 🧠 Concept
+
+Transform geometry into structure.
+
+---
+
+## 🔓 Lite vs Pro
+
+Lite:
+- basic sphere placement  
+- vertex binding  
+
+Pro (coming soon):
+- color control  
+- instancing  
+- randomization  
+- wireframe system  
+- advanced controls  
 
 ---
 
