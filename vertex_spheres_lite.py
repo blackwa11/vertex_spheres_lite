@@ -1,6 +1,6 @@
 bl_info = {
     "name": "vertex_spheres_lite",
-    "author": "blackwa11",
+    "author": "Blackwall",
     "version": (1, 4),
     "blender": (3, 6, 0),
     "location": "View3D > N-panel > Vertex Lite",
